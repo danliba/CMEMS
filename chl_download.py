@@ -6,8 +6,8 @@ Created on Thu Apr 14 19:48:11 2022
 """
 import os
 
-cmems_user= "dbarreto"
-cmems_pass= "DoNuT_120197"
+cmems_user= """""""
+cmems_pass= """"""
 motu_server ="https://nrt.cmems-du.eu/motu-web/Motu"
 product_id="dataset-oc-glo-bio-multi-l3-chl_300m_daily-rt"
 service_id="OCEANCOLOUR_GLO_CHL_L3_NRT_OBSERVATIONS_009_032-TDS"
